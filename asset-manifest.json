@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/project_5/static/css/main.a2ef81a6.css",
-    "main.js": "/project_5/static/js/main.79831d49.js",
+    "main.css": "/project_5/static/css/main.2022450e.css",
+    "main.js": "/project_5/static/js/main.0bbfdfed.js",
     "static/js/787.a09012be.chunk.js": "/project_5/static/js/787.a09012be.chunk.js",
     "static/media/runing_video.mp4": "/project_5/static/media/runing_video.7be12ced168fdd6d59b1.mp4",
+    "static/media/Shoes.jpg": "/project_5/static/media/Shoes.c3ae7773d285222fa3b3.jpg",
+    "static/media/Clothes.jpg": "/project_5/static/media/Clothes.f49a96f1dfd709f3dba0.jpg",
+    "static/media/Supplies.jpg": "/project_5/static/media/Supplies.621fdb363221f8cb13e1.jpg",
+    "static/media/Acc.jpg": "/project_5/static/media/Acc.170e0aca7b420039286b.jpg",
+    "static/media/sports.jpg": "/project_5/static/media/sports.3621fd51e7f7ab3b3312.jpg",
     "index.html": "/project_5/index.html",
     "static/media/adidas-icon.svg": "/project_5/static/media/adidas-icon.2666c5a6cecb228a2d31a17d317499c3.svg",
-    "main.a2ef81a6.css.map": "/project_5/static/css/main.a2ef81a6.css.map",
-    "main.79831d49.js.map": "/project_5/static/js/main.79831d49.js.map",
+    "main.2022450e.css.map": "/project_5/static/css/main.2022450e.css.map",
+    "main.0bbfdfed.js.map": "/project_5/static/js/main.0bbfdfed.js.map",
     "787.a09012be.chunk.js.map": "/project_5/static/js/787.a09012be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2ef81a6.css",
-    "static/js/main.79831d49.js"
+    "static/css/main.2022450e.css",
+    "static/js/main.0bbfdfed.js"
   ]
 }
